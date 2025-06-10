@@ -35,17 +35,6 @@
 - [ ] Publish 10+ real-world ML projects
 - [ ] Start contributing to open-source
 
----
-
-
-
----
-
-### 🚀 Projects
-
-- [🧠 Parkinson Disease Detection](https://github.com/your-username/parkinson-disease-detection)  
-- [🎥 Movie Review Sentiment Analysis](https://github.com/your-username/kalki-sentiment-analysis)  
-- [📊 ML Mini Projects](https://github.com/your-username/ml-mini-projects)
 
 ---
 
